@@ -5,8 +5,8 @@ Projet de démonstration de CI/CD avec GitHub Actions et Docker.
 Réalisé dans le cadre du TP5 de Génie Logiciel.
 
 ## 🌐 URLs
-- **Site GitHub Pages** : https://nourkochat.github.io/mon-premier-pipeline/
-- **Dépôt GitHub** : https://github.com/nourkochat/mon-premier-pipeline
+- **Site GitHub Pages** : https://kenzabertoul.github.io/my-first-pipeline/
+- **Dépôt GitHub** : https://github.com/kenzabertoul/my-first-pipeline
 
 ## 🔄 Workflows
 1. **CI - HTML Validation** : Valide la syntaxe HTML à chaque push
